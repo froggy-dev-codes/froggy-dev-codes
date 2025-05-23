@@ -4,6 +4,7 @@ Me encanta seguir creciendo como desarrollador, aprender nuevas tecnologías y m
 
 Aunque aún no tengo un canal de YouTube, estoy construyendo mi camino para compartir contenido educativo en el futuro.
 
+tecnologias en las que me defiendo
 <img width="70px" height="70px" style="margin: 10px" src="./assets/html.svg">  
 <img width="70px" height="70px" style="margin: 10px" src="./assets/css.svg">  
 <img width="70px" height="70px" style="margin: 10px" src="./assets/javascript.svg">    
