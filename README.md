@@ -1,16 +1,20 @@
-Hola,puedes llamarme Froggy 🐸. Soy estudiante de desarrollo Full Stack y me apasiona el mundo de la programación. En mis tiempos libres, disfruto enseñando y compartiendo lo que aprendo con otras personas.
+## 👋 ¡Hola, soy Froggy!
 
-Me encanta seguir creciendo como desarrollador, aprender nuevas tecnologías y motivar a otros a descubrir lo genial que es programar.
+Soy estudiante de **Desarrollo Full Stack** con una gran pasión por el mundo de la programación. En mis tiempos libres, disfruto enseñar y compartir lo que aprendo con otras personas.
+
+Me encanta seguir creciendo como desarrollador, explorar nuevas tecnologías y motivar a otros a descubrir lo genial que es programar.
 
 Aunque aún no tengo un canal de YouTube, estoy construyendo mi camino para compartir contenido educativo en el futuro.
 
-tecnologias en las que me defiendo
+---
 
-<img width="70px" height="70px" style="margin: 10px" src="./assets/html.svg">  
-<img width="70px" height="70px" style="margin: 10px" src="./assets/css.svg">  
-<img width="70px" height="70px" style="margin: 10px" src="./assets/javascript.svg">    
-<img width="70px" height="70px" style="margin: 10px" src="./assets/node.svg">
-<img width="70px" height="70px" style="margin: 10px" src="./assets/git.png">
-<img width="70px" height="70px" style="margin: 10px" src="./assets/Github.png">
+### 🛠️ Tecnologías con las que trabajo:
 
-
+<div align="center">
+  <img src="./assets/html.svg" alt="HTML" width="60" height="60" style="margin: 10px"/>
+  <img src="./assets/css.svg" alt="CSS" width="60" height="60" style="margin: 10px"/>
+  <img src="./assets/javascript.svg" alt="JavaScript" width="60" height="60" style="margin: 10px"/>
+  <img src="./assets/node.svg" alt="Node.js" width="60" height="60" style="margin: 10px"/>
+  <img src="./assets/git.png" alt="Git" width="60" height="60" style="margin: 10px"/>
+  <img src="./assets/Github.png" alt="GitHub" width="60" height="60" style="margin: 10px"/>
+</div>
