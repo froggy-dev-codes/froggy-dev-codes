@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="./assets/greetings.gif"> <br>
+Hola, soy René, pero puedes llamarme Froggy 🐸. Soy estudiante de desarrollo Full Stack y me apasiona el mundo de la programación. En mis tiempos libres, disfruto enseñando y compartiendo lo que aprendo con otras personas.
 
-<!--
-**froggy-dev-codes/froggy-dev-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me encanta seguir creciendo como desarrollador, aprender nuevas tecnologías y motivar a otros a descubrir lo genial que es programar.
 
-Here are some ideas to get you started:
+Aunque aún no tengo un canal de YouTube, estoy construyendo mi camino para compartir contenido educativo en el futuro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="70px" height="70px" style="margin: 10px" src="./assets/html.svg">  
+<img width="70px" height="70px" style="margin: 10px" src="./assets/css.svg">  
+<img width="70px" height="70px" style="margin: 10px" src="./assets/javascript.svg">    
+<img width="70px" height="70px" style="margin: 10px" src="./assets/python.svg">  
+<img width="70px" height="70px" style="margin: 10px" src="./assets/react.svg">  
+<img width="70px" height="70px" style="margin: 10px" src="./assets/node.svg">
